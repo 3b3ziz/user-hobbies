@@ -52,6 +52,8 @@ node_modules/
 .env.test
 .env.production
 
+dist
+
 # yarn v2
 .yarn/cache
 .yarn/unplugged
